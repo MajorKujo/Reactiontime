@@ -1,0 +1,33 @@
+h1{background-color: chocolate;}
+
+h4{background-color:coral;}
+
+.body1,.body2{text-align: left;
+background-image: url(https://preview.redd.it/i-got-bored-so-i-decided-to-draw-a-random-image-on-the-v0-4ig97vv85vjb1.png?width=1080&crop=smart&auto=webp&s=28c3ad73cff636f7ba478a0c19d734cd538949d4);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+#id1{text-align: right;}
+/* id is distinguished by #, while class is distinguished by . in css */
+
+.class2{background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQprGnGOdRca3D8JvvtBT36wE-Ok6Tu74f0EtgOHlarLX6vb_7HE37M6E&s);
+    /* margin and padding-box model */
+    padding: 5%;
+    margin-left: 7%;
+    margin-right: 10%;
+}
+
+.class1{background-color: darkolivegreen;
+    border: 2px solid black;
+    margin: 0 10% 0 5%;
+    padding: 8% 8% 8% 8%;
+}
+
+.class3{background-color: aquamarine;}
+
+table,th,td{
+    border: 2px solid;
+    border-color: darkred;
+    border-radius:10px;
+}
